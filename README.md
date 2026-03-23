@@ -16,5 +16,12 @@ This project presents a Tableau dashboard analyzing Superstore sales data.
 ## 📷 Dashboard Preview
 ![Dashboard](dashboard.jpeg)
 
+## 📈 Key Insights
+
+- California and New York generate the highest sales among all states  
+- Sales show fluctuations over time with noticeable growth trends  
+- Categories like Phones and Chairs contribute significantly to revenue  
+- Sales per customer indicates high-value repeat customers
+- 
 ## 🔗 Author
 Soumya Ghongade
